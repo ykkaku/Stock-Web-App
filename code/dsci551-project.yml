@@ -1,0 +1,4 @@
+name: dsci551-project
+channels:
+  - defaults
+prefix: C:\Users\erica\anaconda3\envs\dsci551-project\envs\dsci551-project
